@@ -23,23 +23,6 @@ dev_dependencies:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
-# The following section is specific to Flutter.
-flutter:
-  plugin:
-    platforms:
-      ios:
-        default_package: version_migration
-      android:
-        default_package: version_migration
-      linux:
-        default_package: version_migration
-      macos:
-        default_package: version_migration
-      web:
-        default_package: version_migration
-      windows:
-        default_package: version_migration
-
   # To add assets to your package, add an assets section, like this:
   # assets:
   #  - images/a_dot_burr.jpeg
